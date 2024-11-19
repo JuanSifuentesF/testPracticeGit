@@ -1,8 +1,2 @@
 JuanSifuentes
 FernandezDev
-<<<<<<< HEAD
-
-Escrito por JuanSifuentes main
-=======
-unCambio
->>>>>>> cambios
